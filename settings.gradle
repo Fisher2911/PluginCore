@@ -1,0 +1,3 @@
+rootProject.name = 'PluginCore'
+include 'test'
+

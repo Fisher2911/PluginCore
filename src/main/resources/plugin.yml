@@ -1,0 +1,5 @@
+name: PluginCore
+version: '${version}'
+main: io.github.fisher2911.plugincore.PluginCore
+api-version: 1.18
+authors: [ Fisher2911 ]
